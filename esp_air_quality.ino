@@ -3,8 +3,8 @@
 
 #define DHTTYPE DHT11   // DHT 11
 
-const char* ssid = "billu";
-const char* password = "26051992";
+const char* ssid = "wifi name";
+const char* password = "wifi password";
 
 
 WiFiServer server(80);
